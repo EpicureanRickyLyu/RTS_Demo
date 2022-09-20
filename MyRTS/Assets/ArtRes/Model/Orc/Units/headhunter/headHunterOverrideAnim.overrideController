@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: headHunterOverrideAnim
+  m_Controller: {fileID: 9100000, guid: f700d396c26872649957be0a7024f265, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a1028ce13acb8ec48aabc09295bc99de, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 703dd721db34a9e4db27de04a38ec7de, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6e5f73f51dcfd524ebcaacf50a4d4801, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 84d7d7ce4deed7443a8770e4e6ad0f34, type: 2}
